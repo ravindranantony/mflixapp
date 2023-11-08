@@ -19,7 +19,7 @@ export default function Component() {
           <Link className="text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white" href="#">
             Shop
           </Link>
-          <Link className="text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white" href="#">
+          <Link href="/contact" className="text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white" href="#">
             Contact Us
           </Link>
         </nav>
