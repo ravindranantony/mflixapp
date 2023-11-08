@@ -31,7 +31,7 @@ export default function Component() {
             alt="Video thumbnail"
             className="rounded-lg cursor-pointer"
             height="200"
-            src="/next.svg"
+            src="/placeholder.jpg"
             style={{
               aspectRatio: "350/200",
               objectFit: "cover",
@@ -42,7 +42,7 @@ export default function Component() {
             alt="Video thumbnail"
             className="rounded-lg cursor-pointer"
             height="200"
-            src="/next.svg"
+            src="/placeholder.jpg"
             style={{
               aspectRatio: "350/200",
               objectFit: "cover",
@@ -53,7 +53,7 @@ export default function Component() {
             alt="Video thumbnail"
             className="rounded-lg cursor-pointer"
             height="200"
-            src="/next.svg"
+            src="/placeholder.jpg"
             style={{
               aspectRatio: "350/200",
               objectFit: "cover",
@@ -64,7 +64,7 @@ export default function Component() {
             alt="Video thumbnail"
             className="rounded-lg cursor-pointer"
             height="200"
-            src="/next.svg"
+            src="/placeholder.jpg"
             style={{
               aspectRatio: "350/200",
               objectFit: "cover",
@@ -78,7 +78,7 @@ export default function Component() {
             alt="Video thumbnail"
             className="rounded-lg cursor-pointer"
             height="200"
-            src="/next.svg"
+            src="/placeholder.jpg"
             style={{
               aspectRatio: "350/200",
               objectFit: "cover",
@@ -89,7 +89,7 @@ export default function Component() {
             alt="Video thumbnail"
             className="rounded-lg cursor-pointer"
             height="200"
-            src="/next.svg"
+            src="/placeholder.jpg"
             style={{
               aspectRatio: "350/200",
               objectFit: "cover",
@@ -100,7 +100,7 @@ export default function Component() {
             alt="Video thumbnail"
             className="rounded-lg cursor-pointer"
             height="200"
-            src="/next.svg"
+            src="/placeholder.jpg"
             style={{
               aspectRatio: "350/200",
               objectFit: "cover",
@@ -111,7 +111,7 @@ export default function Component() {
             alt="Video thumbnail"
             className="rounded-lg cursor-pointer"
             height="200"
-            src="/next.svg"
+            src="/placeholder.jpg"
             style={{
               aspectRatio: "350/200",
               objectFit: "cover",
@@ -122,7 +122,7 @@ export default function Component() {
             alt="Video thumbnail"
             className="rounded-lg cursor-pointer"
             height="200"
-            src="/next.svg"
+            src="/placeholder.jpg"
             style={{
               aspectRatio: "350/200",
               objectFit: "cover",
@@ -133,7 +133,7 @@ export default function Component() {
             alt="Video thumbnail"
             className="rounded-lg cursor-pointer"
             height="200"
-            src="/next.svg"
+            src="/placeholder.jpg"
             style={{
               aspectRatio: "350/200",
               objectFit: "cover",
@@ -144,7 +144,7 @@ export default function Component() {
             alt="Video thumbnail"
             className="rounded-lg cursor-pointer"
             height="200"
-            src="/next.svg"
+            src="/placeholder.jpg"
             style={{
               aspectRatio: "350/200",
               objectFit: "cover",
@@ -155,7 +155,7 @@ export default function Component() {
             alt="Video thumbnail"
             className="rounded-lg cursor-pointer"
             height="200"
-            src="/next.svg"
+            src="/placeholder.jpg"
             style={{
               aspectRatio: "350/200",
               objectFit: "cover",
